@@ -7,7 +7,7 @@ public class ExemploDoWhile {
 			// executando repetidas vezes até alguém atender
 			System.out.println("Telefone tocando");
 
-		}while(tocando()));
+		}while(tocando());
 	
 		System.out.println("Alô!!!");
 }
